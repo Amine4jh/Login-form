@@ -2,7 +2,7 @@
 
 ![alt text](image.png)
 
-A simple and responsive login form built using HTML and CSS.
+A simple and responsive **login form** built using **HTML** and **CSS**.
 
 ## Features
 
@@ -19,7 +19,7 @@ A simple and responsive login form built using HTML and CSS.
 
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/login-form-project.git
+   git clone https://github.com/Amine4jh/login-form-project.git
     ```
 
 2. Open index.html in your browser.
