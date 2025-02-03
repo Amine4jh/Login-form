@@ -12,14 +12,14 @@ A simple and responsive **login form** built using **HTML** and **CSS**.
 
 ## Technologies Used
 
-- HTML5  
-- CSS3 (Flexbox & Grid)  
+- HTML
+- CSS
 
 ## How to Use
 
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/Amine4jh/login-form-project.git
+   git clone https://github.com/Amine4jh/Login-form.git
     ```
 
 2. Open index.html in your browser.
